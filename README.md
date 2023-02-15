@@ -1,2 +1,1 @@
-# Random_color_generator
-A series of divs that get and display a random color each.
+unique static website built with HTML, CSS, and JavaScript that features a random color generator. Each time the page is loaded, the website's divs receive a new and random color, making it a visually appealing and unique experience every time. With its clean and simple design, Chromaticity is an excellent tool for designers, developers, and anyone who loves vibrant colors and a bit of spontaneity. The website's random color generator can be used for a variety of projects and applications, making it an essential addition to anyone's toolbox.
